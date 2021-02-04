@@ -3,8 +3,8 @@ from tweepy import OAuthHandler
 
 def get_twitter_auth():
     #Читает настройки и выполняет Twitter - аутентификацию. Возвращает tweepy.OAuthHandler
-    api_key = '7knZAhWlRctlzMfaa35MQQgy4'
-    api_secret_key = 'hcI6UuHZOOyffRzJ63eHJRr0qmkGLLCv7BGQ8dPzg5tdR0jaSG'
+    api_key = ''
+    api_secret_key = ''
     auth = OAuthHandler(consumer_key=api_key, consumer_secret=api_secret_key)
     return auth #Проходим аутентификацию
 
