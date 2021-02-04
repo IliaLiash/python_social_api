@@ -1,4 +1,4 @@
 # python_social_api
-Twitter api features
-Wiki geo data with folium
-Facebook ApiGraph
+Twitter api features <br />
+Wiki geo data with folium <br />
+Facebook ApiGraph <br />
